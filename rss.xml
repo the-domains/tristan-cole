@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Tristan Cole]]></title>
         <description><![CDATA[Tristan Cole]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tristan-cole/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 00:45:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 20 Oct 2015 00:45:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tristan-cole/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing the Grid]]></title>
+            <description><![CDATA[<article><h1>Testing the Grid</h1><p>The time has come and the beta is rolling. Lets see how it performs</p></article>]]></description>
+            <link>https://thegrid.ai/tristan-cole/testing-the-grid/index.html</link>
+            <guid isPermaLink="false">3d5bb0df-9b0f-4193-b524-8590f82c0029</guid>
+            <pubDate>Tue, 20 Oct 2015 00:44:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AirBnb: an Insider Story on Building Products People Love * /r/Entrepreneur]]></title>
             <description><![CDATA[<article><h1>AirBnb: an Insider Story on Building Products People Love * /r/Entrepreneur</h1><p>Full Disclosure: I work at a company called SmartUp - it's an app for entrepreneurs to learn through quizzes and** **simulations from other...</p><img src="https://www.redditstatic.com/icon.png"></article>]]></description>
