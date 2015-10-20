@@ -1,6 +1,6 @@
 name: Tristan Cole
 favicon: null
-layout_spectrum: 0.6848053650464863
+layout_spectrum: 0.56253
 typography_spectrum: 0.17505007912404835
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
+    - '#bf1e2d'
     - '#ffffff'
-    - '#aaaaaa'
-    - '#808080'
-    - '#5a5a5a'
+    - '#d0675a'
+    - '#c02430'
+    - '#d05d5f'
   brandStrength: 0.8125
-  lightness: 0.17282207100652158
-  saturation: 0.08966432930901647
-  rhythmicContrast: 0.34745269687846303
+  lightness: 0.75
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
